@@ -15,10 +15,10 @@
     <div class="container">
          <div class="row">
             <div class="col-xs-2">
-                    <a href="~/GoogleKarte" class="btn btn-primary">Fahrseugliste</a>
+                    <a href="Default" class="btn btn-success">Fahrseugliste</a>
             </div>
             <div class="col-xs-10">
-                    <a href="#" class="btn btn-success">Karte</a>
+                    <a href="GoogleKarte" class="btn btn-primary">Karte</a>
             </div>
         </div>
     </div>
