@@ -7,9 +7,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Fahrzeuge._GoogleKarte {
+namespace Fahrzeuge {
     
     
-    public partial class aspx {
+    public partial class _GoogleKarte {
     }
 }
