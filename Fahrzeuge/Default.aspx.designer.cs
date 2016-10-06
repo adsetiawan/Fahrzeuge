@@ -10,6 +10,6 @@
 namespace Fahrzeuge {
     
     
-    public partial class _GoogleKarte {
+    public partial class _Default {
     }
 }
