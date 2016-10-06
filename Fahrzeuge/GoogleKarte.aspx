@@ -1,7 +1,7 @@
-﻿<%@ Page Title="Fahrzeuge" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Fahrzeuge._Default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="GoogleKarte.aspx.cs" Inherits="Fahrzeuge._GoogleKarte.aspx" %>
 
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    
     <div class="bg-grey">
         <div class="container">
             <div class="row row-fahrzeuge">

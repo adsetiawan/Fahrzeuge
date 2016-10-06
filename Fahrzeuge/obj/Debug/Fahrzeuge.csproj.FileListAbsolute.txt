@@ -61,6 +61,5 @@ c:\users\adsetiawan\documents\visual studio 2015\Projects\Fahrzeuge\Fahrzeuge\bi
 c:\users\adsetiawan\documents\visual studio 2015\Projects\Fahrzeuge\Fahrzeuge\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\adsetiawan\documents\visual studio 2015\Projects\Fahrzeuge\Fahrzeuge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 c:\users\adsetiawan\documents\visual studio 2015\Projects\Fahrzeuge\Fahrzeuge\bin\Microsoft.Owin.Security.OAuth.xml
-c:\users\adsetiawan\documents\visual studio 2015\Projects\Fahrzeuge\Fahrzeuge\obj\Debug\Fahrzeuge.csprojResolveAssemblyReference.cache
 c:\users\adsetiawan\documents\visual studio 2015\Projects\Fahrzeuge\Fahrzeuge\obj\Debug\Fahrzeuge.dll
 c:\users\adsetiawan\documents\visual studio 2015\Projects\Fahrzeuge\Fahrzeuge\obj\Debug\Fahrzeuge.pdb
